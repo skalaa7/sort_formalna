@@ -12,7 +12,7 @@ void swap(int *a,int *b)
 }
 int main(int argc, char * argv[])
 {
-	int n=strtol(argv[1],NULL,10);;
+	int n=strtol(argv[1],NULL,10);
 	cout<<"n=";
 	//cin>>n;
 	cout<<n<<endl;
